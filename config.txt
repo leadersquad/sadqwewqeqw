@@ -1,0 +1,6 @@
+token=NTIyNzg0MTE0NTAwMzA0ODk2.DvQAOA.rJFstpWZxkUP3sUBGeOqGAQRstI
+owner=504019795600211968
+prefix= 1
+game= Type 1help
+stayinchannel=true
+songinstatus=true
